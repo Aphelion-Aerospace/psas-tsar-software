@@ -48,3 +48,11 @@
 
 # Ignore Datasheets
 */datasheets_ignore/*
+Actuator Controller Test/Actuator Controller Code REV 1.0/STM32 actuator controller test code rev1.0/Debug/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart_ex.su
+Actuator Controller Test/Actuator Controller Code REV 1.0/STM32 actuator controller test code rev1.0/Debug/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.su
+Actuator Controller Test/Actuator Controller Code REV 1.0/STM32 actuator controller test code rev1.0/Debug/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.su
+Actuator Controller Test/Actuator Controller Code REV 1.0/STM32 actuator controller test code rev1.0/Debug/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.su
+Actuator Controller Test/Actuator Controller Code REV 1.0/STM32 actuator controller test code rev1.0/Debug/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pcd_ex.su
+Actuator Controller Test/Actuator Controller Code REV 1.0/STM32 actuator controller test code rev1.0/Debug/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.su
+Actuator Controller Test/Actuator Controller Code REV 1.0/STM32 actuator controller test code rev1.0/Debug/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.su
+Actuator Controller Test/Actuator Controller Code REV 1.0/STM32 actuator controller test code rev1.0/Debug/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.su
